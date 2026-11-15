@@ -1,0 +1,100 @@
+{
+  "version": 2,
+  "skills": {
+    "argent-android-emulator-setup": {
+      "source": "../../../../../.nvm/versions/node/v22.23.5/lib/node_modules/@swmansion/argent/skills",
+      "sourceType": "local",
+      "computedHash": "48907bf240b710b5e20acb88b62325a7057d9b11f18a8b6b49830986873eb61d"
+    },
+    "argent-create-e2e": {
+      "source": "../../../../../.nvm/versions/node/v22.23.5/lib/node_modules/@swmansion/argent/skills",
+      "sourceType": "local",
+      "computedHash": "ab8ba31e0712a5b791faeb02a5859f01fca81266ecd45351b5f36a258012b766"
+    },
+    "argent-device-interact": {
+      "source": "../../../../../.nvm/versions/node/v22.23.5/lib/node_modules/@swmansion/argent/skills",
+      "sourceType": "local",
+      "computedHash": "3ff4f8d40b2d63edb15ece5f5c2d894a0786da773280032edd26fc820c681c54"
+    },
+    "argent-ios-device-interact": {
+      "source": "../../../../../.nvm/versions/node/v22.23.5/lib/node_modules/@swmansion/argent/skills",
+      "sourceType": "local",
+      "computedHash": "d5f7b21c397c4689102c9d54b7f9632122d5e3f75eeee579122e9c592396a270"
+    },
+    "argent-ios-device-setup": {
+      "source": "../../../../../.nvm/versions/node/v22.23.5/lib/node_modules/@swmansion/argent/skills",
+      "sourceType": "local",
+      "computedHash": "32d0a95573c9dad3885184d48c0ae18b261c13a1684f930e2565c35a93b3083b"
+    },
+    "argent-ios-simulator-setup": {
+      "source": "../../../../../.nvm/versions/node/v22.23.5/lib/node_modules/@swmansion/argent/skills",
+      "sourceType": "local",
+      "computedHash": "4f6f84ee611af91064e2aafc621adda42634331c053ab4a3864236704889e584"
+    },
+    "argent-lens": {
+      "source": "../../../../../.nvm/versions/node/v22.23.5/lib/node_modules/@swmansion/argent/skills",
+      "sourceType": "local",
+      "computedHash": "90a88bc49b6ccaf3294341d9188604a98cb63b0ccf417e8aecff068ec98cdbdb"
+    },
+    "argent-macos-app-interact": {
+      "source": "../../../../../.nvm/versions/node/v22.23.5/lib/node_modules/@swmansion/argent/skills",
+      "sourceType": "local",
+      "computedHash": "13b216d3fa3f0f375b6c6f50d0aef2f1c839aa0647d3af22462c262c3807abe6"
+    },
+    "argent-metro-debugger": {
+      "source": "../../../../../.nvm/versions/node/v22.23.5/lib/node_modules/@swmansion/argent/skills",
+      "sourceType": "local",
+      "computedHash": "88f956eae611408b45696d2aaedbdaeac16811e6adee2b64701ab9e40a53147e"
+    },
+    "argent-native-profiler": {
+      "source": "../../../../../.nvm/versions/node/v22.23.5/lib/node_modules/@swmansion/argent/skills",
+      "sourceType": "local",
+      "computedHash": "8cbe4850f47e8ad1fe559d9044e813a13cb776c2520776a0715edf944de512b4"
+    },
+    "argent-qa-e2e": {
+      "source": "../../../../../.nvm/versions/node/v22.23.5/lib/node_modules/@swmansion/argent/skills",
+      "sourceType": "local",
+      "computedHash": "85473dec9223bd7aafc8c7a9124ec859c62e0f1662cc127aea3c579a658a3242"
+    },
+    "argent-react-native-app-workflow": {
+      "source": "../../../../../.nvm/versions/node/v22.23.5/lib/node_modules/@swmansion/argent/skills",
+      "sourceType": "local",
+      "computedHash": "c96d20925a6b490223b3c0c81c7675fa002b933430751d80b27607c6bb364e0d"
+    },
+    "argent-react-native-optimization": {
+      "source": "../../../../../.nvm/versions/node/v22.23.5/lib/node_modules/@swmansion/argent/skills",
+      "sourceType": "local",
+      "computedHash": "d245c8f8e46f5c26159d78bd5aee73bd50ef4b45e6753ba582dec42b5f07adac"
+    },
+    "argent-react-native-profiler": {
+      "source": "../../../../../.nvm/versions/node/v22.23.5/lib/node_modules/@swmansion/argent/skills",
+      "sourceType": "local",
+      "computedHash": "0923d9509d27445f6f2f1a5b7c1bc0edf4368a83144130e0f669d889a2011fdc"
+    },
+    "argent-screen-recording": {
+      "source": "../../../../../.nvm/versions/node/v22.23.5/lib/node_modules/@swmansion/argent/skills",
+      "sourceType": "local",
+      "computedHash": "7d4b38f67847f7f22c64df3567c806a072fc8086af0935fb4cf1a9d94196ea99"
+    },
+    "argent-screenshot-diff": {
+      "source": "../../../../../.nvm/versions/node/v22.23.5/lib/node_modules/@swmansion/argent/skills",
+      "sourceType": "local",
+      "computedHash": "3d5a105a11b29b44557a2b7955f838929efb97e396cfaa1c1bc29fe31c121aa4"
+    },
+    "argent-settings-permissions": {
+      "source": "../../../../../.nvm/versions/node/v22.23.5/lib/node_modules/@swmansion/argent/skills",
+      "sourceType": "local",
+      "computedHash": "2e41fa14816e5ddc86d64552367dd242dbc1c9200e2b6265769469dccc973339"
+    },
+    "argent-test-ui-flow": {
+      "source": "../../../../../.nvm/versions/node/v22.23.5/lib/node_modules/@swmansion/argent/skills",
+      "sourceType": "local",
+      "computedHash": "ce05975f0c5adc2d02d12fa3b226d0d589a1119236c04ef506a7f79840240d04"
+    },
+    "argent-tv-interact": {
+      "source": "../../../../../.nvm/versions/node/v22.23.5/lib/node_modules/@swmansion/argent/skills",
+      "sourceType": "local",
+      "computedHash": "5e49242510cf666da19c1b0dd08a05919769f55cc97741606cbeaf04ace3f01f"
+    }
+  }
+}

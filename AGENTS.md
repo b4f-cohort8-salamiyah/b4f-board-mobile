@@ -39,3 +39,10 @@ Docs: https://docs.expo.dev/eas/index.md
 - If `ios/` and `android/` directories do not exist, they are generated (Continuous Native Generation). Never create or edit them by hand — configure native behavior in `app.json` and config plugins.
 - Expo Go only includes its bundled native modules. After adding a library with native code, the app needs a development build: `npx expo run:ios|android` locally, or `eas build --profile development`.
 - Prefer recommended Expo modules over third-party libraries, and check your available skills before adding dependencies. Docs: https://docs.expo.dev/versions/latest/index.md
+
+## B4F Board Mobile — project context
+
+- This app is a companion client to the real B4F Board backend. The backend is fixed and never modified — all data comes from its documented HTTP API, confirmed in `docs/API_CONTRACT.md` once that file exists. Until then, use `docs/CAPABILITY_MATRIX.md` as the current inspected API-capability reference; it is based on source inspection, and runtime verification remains pending. Never invent an endpoint.
+- Product scope boundaries live in `docs/MOBILE_SCOPE.md`. Product delivery state lives in `docs/ROADMAP.md`. Treat anything marked product-level excluded there as out of scope unless the instructor explicitly reopens it.
+- App-wide architecture decisions live in `docs/ARCHITECTURE.md` once it exists — read it before proposing any new structural pattern.
+- Engineering standards (security, dependency discipline, testability, and the rest) live in `docs/ENGINEERING_STANDARDS.md` — follow them, don't restate them here.
